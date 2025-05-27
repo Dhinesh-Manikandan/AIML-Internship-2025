@@ -45,3 +45,5 @@ Titanic-Dataset.csv – Raw dataset.
 Reference YT video - https://www.youtube.com/watch?v=GP-2634exqA
 
 My Notes - Data Cleaning and Preprocssing notes.pdf
+
+Online References - https://www.perplexity.ai/search/task-1-data-cleaning-preproces-ffHJuYwASWGP0CaP2oNl_Q
